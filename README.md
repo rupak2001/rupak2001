@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rupak2001
+- 👀 I’m interested in Webdev
+- 🌱 I’m currently learning Mongodb and other backend and some frontend stuffs
+- 💞️ I’m looking to collaborate on open source projects
